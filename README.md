@@ -1,1 +1,1 @@
-# python_discord_bot_template
+# wow-crafty-pals
